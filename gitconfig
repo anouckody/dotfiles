@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ody.anouck@gmail.com
+	name = Anouck ODY
